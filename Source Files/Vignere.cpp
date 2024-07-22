@@ -8,7 +8,7 @@ int main() {
   string choice;    //choice of user
   string plnText;    //plain text to encrypt/decrypt
   string key;    //key used to encrypt/decrypt
-  cout << "Welcome to the Vigenere Cipher Decryption program by Joseph Caraan and Paul Ingram.\n\n";
+  cout << "Welcome to the Vigenere Cipher Decryption program by Joseph Caraan.\n\n";
   cout << "Enter 1 to encrypt or 2 to decrypt text (with no spaces or symbols): ";
   cin >> choice;
   while(choice != "1" && choice != "2"){
