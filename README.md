@@ -1,7 +1,5 @@
 # Vigenère Cipher 
 
-Author: Joseph Caraan
-
 Date Published: May 3, 2023
 
 Vigenere Cypher Overview:
